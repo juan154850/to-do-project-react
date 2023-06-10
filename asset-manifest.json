@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/juan154850/to-do-project-react/static/css/main.00985a1a.css",
+    "main.js": "/juan154850/to-do-project-react/static/js/main.22d07010.js",
+    "index.html": "/juan154850/to-do-project-react/index.html",
+    "static/media/x-red.svg": "/juan154850/to-do-project-react/static/media/x-red.7018c4465589031bd51c8efbe21df9ca.svg",
+    "static/media/circle-check.svg": "/juan154850/to-do-project-react/static/media/circle-check.e9a948bba52a34123d2ed7aeda0ea495.svg",
+    "main.00985a1a.css.map": "/juan154850/to-do-project-react/static/css/main.00985a1a.css.map",
+    "main.22d07010.js.map": "/juan154850/to-do-project-react/static/js/main.22d07010.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00985a1a.css",
+    "static/js/main.22d07010.js"
+  ]
+}
