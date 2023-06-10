@@ -1,0 +1,43 @@
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+label {
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+textarea {
+    width: 300px;
+    height: 150px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    resize: none;
+    margin-bottom: 10px;
+}
+
+.TodoForm-buttonContainer {
+    display: flex;
+}
+
+.TodoForm-button {
+    padding: 8px 16px;
+    border-radius: 4px;
+    margin-right: 10px;
+    border: none;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.TodoForm-cancel {
+    background-color: #ffdd80;
+    color: #333;
+}
+
+.TodoForm-button--add {
+    background-color: #a2e8a2;
+    color: #333;
+}
