@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/juan154850.io/to-do-project-react/static/css/main.00985a1a.css",
-    "main.js": "/juan154850.io/to-do-project-react/static/js/main.7d30ed37.js",
-    "index.html": "/juan154850.io/to-do-project-react/index.html",
-    "static/media/x-red.svg": "/juan154850.io/to-do-project-react/static/media/x-red.7018c4465589031bd51c8efbe21df9ca.svg",
-    "static/media/circle-check.svg": "/juan154850.io/to-do-project-react/static/media/circle-check.e9a948bba52a34123d2ed7aeda0ea495.svg",
-    "main.00985a1a.css.map": "/juan154850.io/to-do-project-react/static/css/main.00985a1a.css.map",
-    "main.7d30ed37.js.map": "/juan154850.io/to-do-project-react/static/js/main.7d30ed37.js.map"
+    "main.css": "/to-do-project-react/static/css/main.00985a1a.css",
+    "main.js": "/to-do-project-react/static/js/main.7db9a0ae.js",
+    "index.html": "/to-do-project-react/index.html",
+    "static/media/x-red.svg": "/to-do-project-react/static/media/x-red.7018c4465589031bd51c8efbe21df9ca.svg",
+    "static/media/circle-check.svg": "/to-do-project-react/static/media/circle-check.e9a948bba52a34123d2ed7aeda0ea495.svg",
+    "main.00985a1a.css.map": "/to-do-project-react/static/css/main.00985a1a.css.map",
+    "main.7db9a0ae.js.map": "/to-do-project-react/static/js/main.7db9a0ae.js.map"
   },
   "entrypoints": [
     "static/css/main.00985a1a.css",
-    "static/js/main.7d30ed37.js"
+    "static/js/main.7db9a0ae.js"
   ]
 }
